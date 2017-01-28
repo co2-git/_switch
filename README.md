@@ -1,7 +1,7 @@
 underscore-switch
 ===
 
-`_switch` is a functional programming substitute for switch statement in JavaScript. It aims at more readability and reasoning. It comes at a small cost since it uses a function instead of native condition blocks. At the end, it comes down to each one's preferences. For some, it would make no sense sugar-code a language construct - to others, it helps reason about their scope variables by always using functions.
+`_switch` is a functional programming substitute for `switch` statement in JavaScript. It aims at more readability and reasoning. It comes at a small cost since it uses a function instead of native condition blocks. At the end, it comes down to each one's own preferences. For some, it would make no sense sugar-coding a language construct - to others, it helps reason about their scope variables by always using functions.
 
 # Install
 
